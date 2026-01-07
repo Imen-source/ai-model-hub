@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# PyTorch models (optional, only if too big)
+models/*.pt
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
